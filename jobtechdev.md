@@ -14,7 +14,7 @@ Arbetsförmedlingen has made the commitment to implement parts of the MyData pri
 [Read more about MyData principles](https://mydata.org/)
 
 
-![](AF-Connect-Demo.gif)
+![](https://github.com/MagnumOpuses/af-connect-project/blob/master/AF-Connect-Demo.gif)
 
 ## Definitions:
 * User(s): Job-seekers, individually that passively or actively are seeking for employmenet.
