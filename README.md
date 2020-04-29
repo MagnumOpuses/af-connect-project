@@ -33,13 +33,16 @@ An intermediate layer between systems in the labor market where the individual i
 * Storage: Users store their CV profiles on Swedish Public Employment Service site;
 * Consent: A middleware where users handle the consent to transfer their data;
 * Operator: Technical service that coordinates information flows between services;
-* Encryption: Modules to facilitate and ensure that data is encrypted upon creation, transfer and consumption..
 
 ## Software modules
-* [AF Connect](https://github.com/MagnumOpuses/af-connect)
-* [AF Connect Demo](https://github.com/MagnumOpuses/af-connect-demo)
-* [AF Connect Module](https://github.com/MagnumOpuses/af-connect-module)
-* [AF Portability](https://github.com/MagnumOpuses/af-portability)
+* [AF Connect](https://github.com/MagnumOpuses/af-connect)    
+  Web service responsible for obtaining informed consent from the user before any user data is transferred to third parties
+* [AF Connect Demo](https://github.com/MagnumOpuses/af-connect-demo)    
+  Example website that demonstrates the use-case of pre-filling forms with CV data from
+* [AF Connect Module](https://github.com/MagnumOpuses/af-connect-module)    
+  Module responsible for obtaining informed consent from the user before any user data is transferred to third parties.
+* [AF Portability](https://github.com/MagnumOpuses/af-portability)    
+   Web service that enables the end-user to extract/export their own CV data Arbetsförmedlingen directly to their personal Gravity storage.
 * [Common CV Model](https://github.com/MagnumOpuses/common-cv-model)
 
 ## Contributing
