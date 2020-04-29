@@ -43,7 +43,7 @@ An intermediate layer between systems in the labor market where the individual i
   Module responsible for obtaining informed consent from the user before any user data is transferred to third parties.
 * [AF Portability](https://github.com/MagnumOpuses/af-portability)    
    Web service that enables the end-user to extract/export their own CV data Arbetsförmedlingen directly to their personal Gravity storage.
-* [Common CV Model](https://github.com/MagnumOpuses/common-cv-model)
+* [Common CV Model](https://github.com/MagnumOpuses/common-cv-model)    
    This repository contains information about the common data structure that AF-Connect uses to response.
 
 ## Contributing
