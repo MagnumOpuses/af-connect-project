@@ -4,7 +4,7 @@
 
 [A JobTech Project](https://www.jobtechdev.se)
 
-# af-connect-project
+# AF Connect a JobtechDev Open Source Project
 ## Mission
 Our mission with this project is to help job seekers and employers to find each other, to boost innovation within the labor market and to create opportunities for all actors within the industry sector.
 ## Vision
@@ -13,7 +13,6 @@ Arbetsförmedlingen has made the commitment to implement parts of the MyData pri
 “ MyData Global is a registered non-profit association and a global network with the mission to empower individuals by improving their right to self-determination regarding their personal data . "  
 [Read more about MyData principles](https://mydata.org/)
 
-## Af Connect 
 
 ![](AF-Connect-Demo.gif)
 
