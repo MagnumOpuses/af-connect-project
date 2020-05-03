@@ -4,7 +4,7 @@
 
 [A JobTech Project](https://www.jobtechdev.se)
 
-# AF Connect Project (*a JobtechDev Open Source Project*)
+# AF Connect Project
 ## Mission
 Our mission with this project is to help job seekers and employers to find each other, to boost innovation within the labor market and to create opportunities for all actors within the industry sector.
 ## Vision
@@ -14,14 +14,14 @@ Arbetsförmedlingen has made the commitment to implement parts of the MyData pri
 [Read more about MyData principles](https://mydata.org/)
 
 
-![](AF-Connect-Demo.gif)
+![](https://github.com/MagnumOpuses/af-connect-project/blob/master/AF-Connect-Demo.gif)
 
 ## Definitions:
 * User(s): Job-seekers, individually that passively or actively are seeking for employmenet.
 * Client(s): Generally businesses that handles CV-data within the job market (not employers). E.g. Job sites, Talent Tracking Systems, Research agencies etc.
 
 ## Product description:
-An intermediate layer between systems in the labor market where the individual is given the opportunity to handle approval of what information is to be shared and to whom.
+Creates the possibility to import cv-data stored with in  the Swedish Public Employment Service (Arbetsförmedlingen) to other systems in the labor market with individual consent to what information is to be shared and to whom.
 
 ## Product features:
 * Export of CV-data from Swedish Public Employment Service (AF);
@@ -43,7 +43,8 @@ An intermediate layer between systems in the labor market where the individual i
   Module responsible for obtaining informed consent from the user before any user data is transferred to third parties.
 * [AF Portability](https://github.com/MagnumOpuses/af-portability)    
    Web service that enables the end-user to extract/export their own CV data Arbetsförmedlingen directly to their personal Gravity storage.
-* [Common CV Model](https://github.com/MagnumOpuses/common-cv-model)
+* [Common CV Model](https://github.com/MagnumOpuses/common-cv-model)    
+   This repository contains information about the common data structure that AF-Connect uses to response.
 
 ## Contributing
 
