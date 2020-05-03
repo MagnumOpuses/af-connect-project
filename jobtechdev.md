@@ -21,7 +21,7 @@ Arbetsförmedlingen has made the commitment to implement parts of the MyData pri
 * Client(s): Generally businesses that handles CV-data within the job market (not employers). E.g. Job sites, Talent Tracking Systems, Research agencies etc.
 
 ## Product description:
-An intermediate layer between systems in the labor market where the individual is given the opportunity to handle approval of what information is to be shared and to whom.
+Creates the possibility to import cv-data stored with in  the Swedish Public Employment Service (Arbetsförmedlingen) to other systems in the labor market with individual consent to what information is to be shared and to whom.
 
 ## Product features:
 * Export of CV-data from Swedish Public Employment Service (AF);
