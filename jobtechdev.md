@@ -52,7 +52,7 @@ We would love if you'd like to help us build and improve this product for the be
 
 Any contributions, feedback and suggestions are more than welcome.
 
-Please read our guidelines for contribution [here](CONTRIBUTING_TEMPLATE.md).
+Please read our guidelines for contribution [here](https://github.com/MagnumOpuses/af-connect-project/blob/master/CONTRIBUTING.md).
 
 ## License
 
