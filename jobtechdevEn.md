@@ -5,7 +5,7 @@
 [A JobTech Project](https://www.jobtechdev.se)
 
 # Connect Once
-Arbetsförmedlingen Connect Once (or simply Connect Connect) is a data transfer service that sends structured data between two systems. The service makes it possible for a person to automatically fill in a job application with the help of the CV data stored at the Swedish Public Employment Service.
+Arbetsförmedlingen Connect Once (or simply Connect Once) is a data transfer service that sends structured data between two systems. The service makes it possible for a person to automatically fill in a job application with the help of the CV data stored at the Swedish Public Employment Service.
 
 ## Main goal
 The service aims to make it easier for jobseekers to fill application forms. This will help our partners to increase the number of completed applications and to reduce the drop-offs.
