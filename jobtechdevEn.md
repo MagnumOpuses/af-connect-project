@@ -19,7 +19,7 @@ A jobseeker fills in a job application form automatically with Connect Once.
 ![](https://github.com/MagnumOpuses/af-connect-project/raw/master/af-connect-user-journey-diagram-v3.png)
 
 ## APIs access
-To integrate with AF, request access to APIs here: (available in May 2021)
+To integrate with AF, request access to APIs here: (available in June 2021)
 
 ## Licence and code
 The code is open-source with [Apache License 2.0](LICENSE.md) and can be found here:
