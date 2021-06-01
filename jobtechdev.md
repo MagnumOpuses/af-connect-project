@@ -19,7 +19,7 @@ En arbetssökande fyller i ett jobbansökningsformulär automatiskt med Connect 
 ![](https://github.com/MagnumOpuses/af-connect-project/raw/master/af-connect-user-journey-diagram-v3.png)
 
 ## API:er tillgång
-För att integrera med AF, begär åtkomst till API: här: (Tillgänglig maj 2021)
+För att integrera med AF, begär åtkomst till API: här: (Tillgänglig juni 2021)
 
 ## Licens och kod
 Källkoden är öppen med [Apache License 2.0](LICENSE.md) och finns på:
